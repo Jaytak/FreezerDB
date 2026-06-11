@@ -1,4 +1,4 @@
-# Freezer Stock
+# FreezerDB
 
 A dependency-free web GUI for tracking food in a freezer with SQLite.
 
