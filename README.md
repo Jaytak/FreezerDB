@@ -193,14 +193,3 @@ Webuser login data is stored separately in:
 ```text
 webuser_auth.db
 ```
-
-## Suggested `.gitignore`
-
-```gitignore
-freezer.db
-webuser_auth.db
-server.log
-*.pyc
-__pycache__/
-*.7z
-```
